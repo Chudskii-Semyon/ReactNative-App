@@ -1,0 +1,1 @@
+export {getPhotos, setPhotos} from './photos'
